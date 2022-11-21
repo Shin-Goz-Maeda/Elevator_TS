@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# compile
+index.js
+control.js
+
+# setting
+tsconfig.json
+
+#misc
+.env
